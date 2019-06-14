@@ -14,7 +14,7 @@ class App extends React.Component {
     const imageList = list.map(url => {
       return (
         <li className="item">
-          <img className="image" src={url} />
+          <img className="image" src={url} alt="gif" />
         </li>
       );
     });
