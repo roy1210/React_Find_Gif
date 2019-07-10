@@ -23,7 +23,7 @@ class App extends React.Component {
   }
 
   // run once "App" worked
-  //componentDidMount() {
+  // componentDidMount() {
   // this.giphyApi();
   // }
 
